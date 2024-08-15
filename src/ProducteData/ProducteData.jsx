@@ -27,7 +27,7 @@ export const ProducteData = [
     category: "smartphones",
     thumbnail: "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
     images: [
-      "https://images.samsung.com/is/image/samsung/p6pim/uk/feature/galaxy-s21-5g/galaxy-s21-5g_highlights_01.jpg",
+      "https://img.etimg.com/thumb/width-1200,height-1200,imgsize-234895,resizemode-75,msid-81612953/magazines/panache/samsung-galaxy-s21-review-smartphone-offers-flagship-level-performance-camera-and-design.jpg",
     ],
   },
   {
@@ -42,7 +42,7 @@ export const ProducteData = [
     category: "smartphones",
     thumbnail: "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
     images: [
-      "https://image01.oneplus.net/eb8b7f8c2bd34e5f8a83a2d20c8b0d52.png",
+      "https://oasis.opstatics.com/content/dam/oasis/page/2021/new-navi/eu/pc/9WinterMist.png",
     ],
   },
   {
@@ -56,7 +56,9 @@ export const ProducteData = [
     brand: "Google",
     category: "smartphones",
     thumbnail: "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
-    images: ["https://store.google.com/product/pixel_5?hl=en"],
+    images: [
+      "https://5.imimg.com/data5/SELLER/Default/2023/4/299966797/CX/BE/WK/4409539/1-250x250.jpg",
+    ],
   },
   {
     id: 5,
@@ -70,7 +72,7 @@ export const ProducteData = [
     category: "smartphones",
     thumbnail: "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
     images: [
-      "https://www.sony.co.uk/image/3e06f7f8a4bc0c64b519b879c4b07f7d?fmt=pjpeg&wid=2000&hei=2000",
+      "https://images-cdn.ubuy.co.in/63523741324889116a5bf7f8-sony-xperia-1-ii-xq-at52-5g-256gb-8gb.jpg",
     ],
   },
   {
@@ -84,7 +86,9 @@ export const ProducteData = [
     brand: "Nokia",
     category: "smartphones",
     thumbnail: "https://i.dummyjson.com/data/products/6/thumbnail.jpg",
-    images: ["https://www.nokia.com/phones/en_int/nokia-8-3-5g"],
+    images: [
+      "https://images-cdn.ubuy.co.in/65ab5946719a2460eb5f6425-nokia-8-3-5g-dark-blue-6-81-128gb.jpg",
+    ],
   },
   {
     id: 7,
@@ -98,7 +102,7 @@ export const ProducteData = [
     category: "smartphones",
     thumbnail: "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
     images: [
-      "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/p40-pro/p40pro-3.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4-kZaerAJYyQjWRGY79aaoSWtraSh1GaoZg&s",
     ],
   },
 ];

@@ -36,7 +36,7 @@ const Cart = () => {
                 src={ele.images[0]}
                 alt={ele.title}
                 className="card-img-top"
-                style={{ width: "100%", height: "200px", objectFit: "cover" }}
+                style={{ width: "100%", height: "500px", objectFit: "cover" }}
               />
               <div className="card-body">
                 <h5 className="card-title">{ele.title}</h5>
