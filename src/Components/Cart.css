@@ -1,0 +1,16 @@
+/* Cart.css */
+
+.sticky-header {
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 0;
+  background-color: #f8f9fa;
+  padding: 10px;
+  border-bottom: 1px solid #dee2e6; /* Changed from border-top to border-bottom */
+  z-index: 1000; /* Ensure it stays above other content */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visibility */
+}
+
+.sticky-header h5 {
+  margin: 2; /* Removed margin 2 to apply no margin */
+}
